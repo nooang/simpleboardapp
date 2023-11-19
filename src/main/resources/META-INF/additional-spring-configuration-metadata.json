@@ -1,0 +1,17 @@
+{"properties": [
+  {
+    "name": "app.multipart.base-dir",
+    "type": "java.lang.String",
+    "description": "A description for 'app.multipart.base-dir'"
+  },
+  {
+    "name": "app.multipart.obfuscation.enable",
+    "type": "java.lang.String",
+    "description": "A description for 'app.multipart.obfuscation.enable'"
+  },
+  {
+    "name": "app.multipart.obfuscation.hide-ext.enable",
+    "type": "java.lang.String",
+    "description": "A description for 'app.multipart.obfuscation.hide-ext.enable'"
+  }
+]}
