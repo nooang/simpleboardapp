@@ -14,7 +14,7 @@ public class AlreadyUseException extends RuntimeException {
 
 
 	public AlreadyUseException(MemberVO memberVO, String message) {
-		super();
+		super(message);
 		this.memberVO = memberVO;
 	}
 	
